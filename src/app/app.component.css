@@ -5,3 +5,14 @@
 .col-9{
     background-color: deepskyblue;
 }
+.dark{
+    color:white;
+}
+
+.dark .col-3{
+    background-color:#161958
+}
+
+.dark .col-9{
+    background-color:#3b1149
+}
